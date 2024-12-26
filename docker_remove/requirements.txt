@@ -1,0 +1,11 @@
+Flask==2.2.3
+waitress==2.1.2
+torch==2.0.0+cpu
+torchvision==0.15.0+cpu
+numpy<2.0
+transformers==4.34.0
+-f https://download.pytorch.org/whl/torch_stable.html
+Pillow==9.4.0
+timm==0.6.13
+kornia==0.6.8
+einops==0.5.0
